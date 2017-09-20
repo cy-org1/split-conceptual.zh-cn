@@ -1,1 +1,1 @@
-This is for testing xrefmap @Microsoft.SqlServer.Server1
+This is for testing xrefmap @Microsoft.SqlServer.Server
